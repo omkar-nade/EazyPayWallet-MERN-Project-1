@@ -1,2 +1,1 @@
-# EazyPayWallet-MERN-Project
-
+# EazyPayWallet-MERN-Project-1
